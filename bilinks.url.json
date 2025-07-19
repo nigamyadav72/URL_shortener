@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "687b9da81359a837fd95402d"
+  },
+  "url": "https://google.com",
+  "shorturl": "google"
+},
+{
+  "_id": {
+    "$oid": "687bbc759873b0b3b3ecf333"
+  },
+  "url": "https://nextjs.org/docs/app/getting-started/project-structure",
+  "shorturl": "route"
+},
+{
+  "_id": {
+    "$oid": "687bbce89873b0b3b3ecf334"
+  },
+  "url": "https://nextjs.org/docs/app/getting-started/project-structure",
+  "shorturl": "route2"
+},
+{
+  "_id": {
+    "$oid": "687bd0a49873b0b3b3ecf335"
+  },
+  "url": "https://www.mongodb.com/try/download/compass",
+  "shorturl": "mo"
+},
+{
+  "_id": {
+    "$oid": "687be0fc9873b0b3b3ecf336"
+  },
+  "url": "https://www.mongodb.com/try/download/compass",
+  "shorturl": "mango"
+},
+{
+  "_id": {
+    "$oid": "687be1269873b0b3b3ecf337"
+  },
+  "url": "https://www.vegamovies-nl.bid/",
+  "shorturl": "vega"
+},
+{
+  "_id": {
+    "$oid": "687be2189873b0b3b3ecf338"
+  },
+  "url": "https://www.facebook.com/",
+  "shorturl": "fb"
+},
+{
+  "_id": {
+    "$oid": "687be6b757aac887e3946fd5"
+  },
+  "url": "https://github.com/nigamyadav72/URL_shortener",
+  "shorturl": "github"
+}]
